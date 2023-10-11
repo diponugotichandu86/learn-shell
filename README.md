@@ -1,2 +1,1 @@
-# learn-shell
-# Please learn DevOps
+# learn-shell and Focus on DevOps more
