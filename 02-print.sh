@@ -10,7 +10,7 @@ echo Hello World
 # \e[0m disable the coloring
 echo -e "\e[31mHello Red\e[0m"
 echo -e "\e[32mHello Green\e[0m"
-echo -e "\e[33m Hello Yellow \e[Om"
+echo -e "\e[33m Hello Yellow \e[0m"
 echo -e "\e[34m Hello Blue \e[0m"
 echo -e "\e[35m Hello Magenta \e[0m"
 echo -e "\e[36m Hello Cyan \e[0m"
